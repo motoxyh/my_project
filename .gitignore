@@ -1,0 +1,15 @@
+# Environment
+my_py_env/
+miniconda3/
+env/
+
+# Jupyter
+*.ipynb_checkpoints/
+
+# System
+.DS_Store
+
+# Data Cache
+*.tmp
+*.log
+__pycache__/
